@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+body{
+  background-image: url("./bloom.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.App {
+ 
+  text-align: center;
+}
+
+h1{
+  margin-top: 90px;
+  color: #FF7F50;
+}
